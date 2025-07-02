@@ -1,7 +1,7 @@
 # Hi there, I'm Yorgos 👋
 
 - 🇬🇷 ☀️ I live and work in Greece
-- 👽 I'm an engineer at Orfium
+- 👽 Tinkering with software
 - 🤖 I like automations of all sorts
 - 🐍 Python rocks 
 
